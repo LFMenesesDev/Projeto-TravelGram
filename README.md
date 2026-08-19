@@ -4,6 +4,12 @@ Projeto de interface web inspirado em uma rede social de viagens, desenvolvido p
 
 O TravelGram apresenta um perfil de viajante e uma galeria de registros de diferentes viagens.
 
+🌐 Demonstração
+
+O TravelGram possui uma versão publicada através do GitHub Pages.
+
+👉 "Acessar demonstração do TravelGram" (https://worllokskull.github.io/Projeto-TravelGram/)
+
 🚀 Funcionalidades
 
 - Exibição de perfil do usuário
