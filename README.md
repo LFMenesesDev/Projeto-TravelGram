@@ -8,7 +8,7 @@ O TravelGram apresenta um perfil de viajante e uma galeria de registros de difer
 
 O TravelGram possui uma versão publicada através do GitHub Pages.
 
-👉 "Acessar demonstração do TravelGram" (https://worllokskull.github.io/Projeto-TravelGram/)
+👉 "Acessar demonstração do TravelGram" ([https://lfmenesesdev.github.io/Projeto-TravelGram/])
 
 🚀 Funcionalidades
 
