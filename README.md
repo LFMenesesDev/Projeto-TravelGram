@@ -8,7 +8,7 @@ O TravelGram apresenta um perfil de viajante e uma galeria de registros de difer
 
 O TravelGram possui uma versão publicada através do GitHub Pages.
 
-👉 "Acessar demonstração do TravelGram" ([https://lfmenesesdev.github.io/Projeto-TravelGram/])
+👉 [Acessar demonstração do TravelGram](https://lfmenesesdev.github.io/Projeto-TravelGram/)
 
 🚀 Funcionalidades
 
@@ -48,7 +48,7 @@ O TravelGram foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 Clone o repositório:
 
-git clone https://github.com/Worllokskull/Projeto-TravelGram.git
+git clone https://github.com/LFMenesesDev/Projeto-TravelGram.git
 
 Entre na pasta:
 
@@ -62,4 +62,4 @@ Lucas Felipe Meneses Silva
 
 Estudante de Ciência da Computação e desenvolvedor Full Stack em formação.
 
-"LinkedIn" (https://linkedin.com/in/lucasfelipemeneses/) • "GitHub" (https://github.com/Worllokskull)
+"LinkedIn" (https://linkedin.com/in/lucasfelipemeneses/) • "GitHub" (https://github.com/LFMenesesDev)
